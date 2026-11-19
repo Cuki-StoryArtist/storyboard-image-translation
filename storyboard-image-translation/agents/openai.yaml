@@ -1,0 +1,7 @@
+interface:
+  display_name: "Storyboard Image Translation"
+  short_description: "Translate storyboard teaching images into clean, professional Chinese"
+  default_prompt: "Use $storyboard-image-translation to translate these storyboard teaching images into professional Chinese while preserving the artwork and layout."
+
+policy:
+  allow_implicit_invocation: true
